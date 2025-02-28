@@ -1,0 +1,11 @@
+name: RankUtils
+version: 'v0.1'
+main: dev.shedux.rankutils.RankUtils
+api-version: '1.13'
+load: POSTWORLD
+description: Calculate and display rank-based statistics through PlaceholderAPI
+authors: [ sheduxdev ]
+website: https://github.com/sheduxdev/RankUtils
+depend:
+  - Vault
+  - PlaceholderAPI
